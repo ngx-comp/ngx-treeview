@@ -1,9 +1,9 @@
 {
-  "name": "@zerot13/ngx-treeview",
-  "version": "13.0.0",
+  "name": "@ngx-comp/ngx-treeview",
+  "version": "16.0.0",
   "license": "MIT",
   "contributors": [
-    "zerot13"
+    "ngx-comp"
   ],
   "description": "An Angular Boostrap treeview component",
   "scripts": {
